@@ -25,9 +25,18 @@
   
   <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <p align="center">
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+     <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg'> </a>
+     <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg'> </a>
+     <img width ='32px' src ='https://www.svgrepo.com/show/354139/opencv.svg'> </a>
+     <img width ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'> </a>
+     <img width ='90px' src ='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg'> </a>
+     <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg'> </a>
+     <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg'> </a>
+     <img width ='32px' src ='https://www.svgrepo.com/show/373830/matlab.svg'> </a>
+     <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png'> </a>
 <!---
 ssuorena/ssuorena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
