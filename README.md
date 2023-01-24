@@ -1,3 +1,5 @@
+<img width="100%" align="center" src = "https://www.datocms-assets.com/46256/1631981063-shutterstock1469973338.jpg?ar=3.8&auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&w=2484" width = 250px>
+
 <h1 align="center"><b>Hi , I'm Suorena Saeedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img width="30%" align="right" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" width = 250px>
