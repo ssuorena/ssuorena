@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi , I'm Suorena Saeedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img width="30%" align="right" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" width = 250px>
+<img width="20%" align="right" src = "https://miro.medium.com/max/300/0*aVo1NjzwRKA8SN0j.gif" width = 250px>
 
 - 👋 Hi, I’m @ssuorena.
 - 👀 I’m interested in Machine Learning, Deep Learning and Mechatronics.
