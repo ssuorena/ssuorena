@@ -10,8 +10,6 @@
   <a href="https://scholar.google.com/citations?user=MNk66DoAAAAJ&hl=en"><b>Publications</b></a>
 </p>
 
-<br/>
-
 <img align="right" width="145" src="https://miro.medium.com/max/300/0*aVo1NjzwRKA8SN0j.gif" alt="Robot animation"/>
 
 ### Hey — I'm Suorena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22" alt="wave"/>
@@ -26,19 +24,13 @@ I build systems across **data, AI, optimization, and control**.
   <img src="./assets/system-loop.svg" width="100%" alt="Observe Model Act system loop"/>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="./assets/domain-cards.svg" width="100%" alt="Decision Systems, Agentic AI, Control and Research"/>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="./assets/current-orbit.svg" width="100%" alt="Current Orbit"/>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="./assets/work-grid.svg" width="100%" alt="Selected work"/>
@@ -48,13 +40,9 @@ I build systems across **data, AI, optimization, and control**.
   <a href="https://ssuorena.github.io"><b>Explore the full portfolio →</b></a>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="./assets/toolkit-strip.svg" width="100%" alt="Toolkit"/>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="./assets/recognition-strip.svg" width="100%" alt="Selected recognition"/>
