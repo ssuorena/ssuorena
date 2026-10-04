@@ -119,9 +119,9 @@ Model-informed AI for **sliding and pre-sliding friction** in precision motion s
 
 <br/>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated divider"/>
-</a>
+</p>
 
 <p align="center">
   <b>Data × AI × Control</b><br/>
