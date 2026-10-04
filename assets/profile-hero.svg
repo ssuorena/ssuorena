@@ -9,17 +9,17 @@
 </defs>
 <rect width="900" height="270" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="898" height="268" rx="21" fill="none" stroke="#fff" stroke-opacity=".08"/><rect width="900" height="270" rx="22" fill="url(#grid)"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-<circle cx="48" cy="42" r="4" fill="#72f2b5"/><text x="62" y="48" font-size="14" letter-spacing="2.3" fill="#9faabd">SUORENA SAEIDI</text>
+<circle cx="48" cy="42" r="4" fill="#72f2b5"/><text x="62" y="48" font-size="14" letter-spacing="2.3" fill="#aab4c6">SUORENA SAEIDI</text>
 <text x="48" y="108" font-size="43" font-weight="700" fill="#f4f7fb">Data × AI × Control</text>
 <rect x="48" y="126" width="390" height="2" rx="1" fill="url(#cv)"/>
 <text x="48" y="167" font-size="21" fill="#cbd4e3">Intelligence for decisions.</text>
 <text x="48" y="197" font-size="21" fill="#fff">Models for motion.</text>
-<text x="48" y="239" font-size="12" letter-spacing="1.5" fill="#8591a5">DATA SCIENCE LEAD EXPERT  ·  PhD RESEARCHER</text>
+<text x="48" y="239" font-size="12" letter-spacing="1.5" fill="#909aae">DATA SCIENCE LEAD EXPERT  ·  PHD RESEARCHER</text>
 <rect x="48" y="253" width="104" height="3" rx="2" fill="url(#gold)"/>
 <g transform="translate(620 26)">
 <text x="112" y="10" text-anchor="middle" font-size="11" letter-spacing="2.2" fill="#69758b">SIGNATURE LOOP</text>
 <circle cx="112" cy="118" r="82" fill="#0b1019" stroke="#fff" stroke-opacity=".05"/>
-<circle cx="112" cy="118" r="62" fill="none" stroke="url(#cv)" stroke-opacity=".42" stroke-width="1.5" stroke-dasharray="3 7"/>
+<circle cx="112" cy="118" r="62" fill="none" stroke="url(#cv)" stroke-opacity=".48" stroke-width="1.5" stroke-dasharray="3 7"/>
 <circle cx="112" cy="118" r="33" fill="#101625" stroke="url(#cv)" stroke-width="1.6"/>
 <circle cx="112" cy="118" r="6" fill="#77eef7" filter="url(#glow)"/>
 <path d="M30 118H72M152 118h42M112 54V84M112 152v34" stroke="#99a6bd" stroke-opacity=".55" stroke-width="1.7"/>
