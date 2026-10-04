@@ -1,58 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Suorena Saeidi — Data × AI × Control</title>
-  <desc id="desc">A dark technical interface connecting decision systems and precision motion.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07090e"/>
-      <stop offset="0.55" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#120c1d"/>
-    </linearGradient>
-    <linearGradient id="cyanViolet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#69f0ff"/>
-      <stop offset="0.55" stop-color="#8ea0ff"/>
-      <stop offset="1" stop-color="#c58cff"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8a6728"/>
-      <stop offset="1" stop-color="#f3c969"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".035" stroke-width="1"/>
-    </pattern>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Suorena Saeidi — Data × AI × Control</title>
+<desc id="d">Personal engineering identity connecting data science, agentic AI, and control research.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090e"/><stop offset=".58" stop-color="#0a1020"/><stop offset="1" stop-color="#140d1f"/></linearGradient>
+  <linearGradient id="cv" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68eef8"/><stop offset=".55" stop-color="#8d9dff"/><stop offset="1" stop-color="#c58cff"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9d732e"/><stop offset="1" stop-color="#f3c969"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".026"/></pattern>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="298" rx="25" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<rect width="1200" height="300" rx="26" fill="url(#grid)"/>
 
-  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
-  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <circle cx="64" cy="48" r="4" fill="#72f2b5" filter="url(#glow)"/>
+  <text x="78" y="54" font-size="14" letter-spacing="2.6" fill="#a9b4c8">SUORENA SAEIDI</text>
+  <text x="64" y="119" font-size="51" font-weight="700" fill="#f4f7fb">Data × AI × Control</text>
+  <rect x="64" y="139" width="510" height="2" rx="1" fill="url(#cv)"/>
+  <text x="64" y="183" font-size="23" fill="#cbd4e3">Intelligence for decisions.</text>
+  <text x="64" y="215" font-size="23" fill="#ffffff">Models for motion.</text>
+  <text x="64" y="265" font-size="13" letter-spacing="1.7" fill="#8793a8">DATA SCIENCE LEAD EXPERT  ·  PHD RESEARCHER</text>
+  <rect x="64" y="280" width="118" height="3" rx="2" fill="url(#warm)"/>
 
-  <g opacity=".85">
-    <circle cx="980" cy="170" r="112" fill="none" stroke="#6ceeff" stroke-opacity=".20"/>
-    <circle cx="980" cy="170" r="79" fill="none" stroke="#c58cff" stroke-opacity=".18" stroke-dasharray="4 10"/>
-    <circle cx="980" cy="170" r="44" fill="#0d1524" stroke="url(#cyanViolet)" stroke-width="1.5"/>
-    <circle cx="980" cy="170" r="7" fill="#7cecff" filter="url(#glow)"/>
-    <path d="M868 170h-74c-32 0-48-20-48-48v-4" fill="none" stroke="#69f0ff" stroke-opacity=".55"/>
-    <path d="M1092 170h52c22 0 33 13 33 33v10" fill="none" stroke="#c58cff" stroke-opacity=".55"/>
-    <circle cx="792" cy="118" r="4" fill="#69f0ff"/>
-    <circle cx="1145" cy="214" r="4" fill="#c58cff"/>
-    <rect x="744" y="77" width="96" height="24" rx="12" fill="#0b1620" stroke="#69f0ff" stroke-opacity=".32"/>
-    <text x="792" y="93" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.4" fill="#90f5ff">DECISION</text>
-    <rect x="1095" y="236" width="96" height="24" rx="12" fill="#161020" stroke="#c58cff" stroke-opacity=".32"/>
-    <text x="1143" y="252" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.4" fill="#d9b8ff">MOTION</text>
-    <text x="980" y="166" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="2" fill="#a5afc6">OBSERVE</text>
-    <text x="980" y="181" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="2" fill="#f2f5fb">MODEL · ACT</text>
+  <g transform="translate(850 28)">
+    <text x="136" y="14" text-anchor="middle" font-size="12" letter-spacing="2.5" fill="#657087">SYSTEM MAP</text>
+    <circle cx="136" cy="130" r="92" fill="none" stroke="#6eeef7" stroke-opacity=".16" stroke-width="1.5"/>
+    <circle cx="136" cy="130" r="64" fill="none" stroke="#9b9fff" stroke-opacity=".22" stroke-width="1.5" stroke-dasharray="5 8"/>
+    <circle cx="136" cy="130" r="34" fill="#101522" stroke="url(#cv)" stroke-width="1.5"/>
+    <circle cx="136" cy="130" r="6" fill="#78eef8" filter="url(#glow)"/>
+    <text x="136" y="112" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#8894aa">MODEL</text>
+    <text x="136" y="151" text-anchor="middle" font-size="11" letter-spacing="1.4" fill="#f3f6fb">ACT</text>
+
+    <path d="M44 130H85" stroke="#6eeef7" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M187 130H229" stroke="#c58cff" stroke-opacity=".65" stroke-width="2"/>
+    <circle cx="36" cy="130" r="4" fill="#6eeef7"/>
+    <circle cx="237" cy="130" r="4" fill="#c58cff"/>
+    <text x="36" y="110" text-anchor="middle" font-size="13" font-weight="700" fill="#8cf5fb">DATA</text>
+    <text x="237" y="110" text-anchor="middle" font-size="13" font-weight="700" fill="#dab5ff">CONTROL</text>
+    <text x="136" y="244" text-anchor="middle" font-size="13" font-weight="700" fill="#a8b4ff">AGENTIC AI</text>
+    <path d="M136 194V220" stroke="#9faeff" stroke-opacity=".55" stroke-width="2"/>
   </g>
-
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="72" y="78" font-size="14" letter-spacing="3.6" fill="#82edf8">SUORENA SAEIDI</text>
-    <text x="72" y="137" font-size="48" font-weight="700" fill="#f4f7fb">Data × AI × Control</text>
-    <rect x="72" y="160" width="480" height="2" rx="1" fill="url(#cyanViolet)"/>
-    <text x="72" y="205" font-size="22" fill="#cbd3e1">I build intelligence that moves</text>
-    <text x="72" y="235" font-size="22" fill="#ffffff">decisions — and machines.</text>
-    <text x="72" y="286" font-size="12" letter-spacing="1.8" fill="#8691a6">DATA SCIENCE LEAD EXPERT · PHD RESEARCHER</text>
-    <rect x="72" y="305" width="132" height="3" rx="1.5" fill="url(#gold)" opacity=".9"/>
-  </g>
+</g>
 </svg>
