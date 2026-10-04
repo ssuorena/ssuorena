@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://ssuorena.github.io"><b>Portfolio</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/suorena-saeidi"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/suorena-saeedi/"><b>LinkedIn</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://scholar.google.com/scholar?q=%22Suorena+Saeidi%22"><b>Publications</b></a>
+  <a href="https://scholar.google.com/citations?user=MNk66DoAAAAJ&hl=en"><b>Publications</b></a>
 </p>
 
 <br/>
@@ -62,7 +62,7 @@ I build systems across **data, AI, optimization, and control**.
 <p align="center">
   <a href="mailto:ssuorena@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/suorena-saeidi">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/suorena-saeedi/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://ssuorena.github.io">Portfolio</a>
   &nbsp;·&nbsp;
