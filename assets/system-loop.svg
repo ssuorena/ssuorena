@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="t d">
-<title id="t">Observe Model Act</title><desc id="d">The engineering loop connecting signals to decisions and action.</desc>
-<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#8ea0ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
-<rect width="1200" height="132" rx="22" fill="#080b12"/><rect x="1" y="1" width="1198" height="130" rx="21" fill="none" stroke="#fff" stroke-opacity=".07"/>
-<path d="M235 65H965" stroke="url(#l)" stroke-width="2" opacity=".62"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="126" viewBox="0 0 900 126" role="img" aria-labelledby="t d">
+<title id="t">Observe Model Act</title><desc id="d">A compact engineering loop from observation to action.</desc>
+<defs><linearGradient id="g"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#8ea0ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<rect width="900" height="126" rx="20" fill="#080b12"/><rect x="1" y="1" width="898" height="124" rx="19" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<path d="M166 61H734" stroke="url(#g)" stroke-width="2.2" opacity=".62"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <g transform="translate(235 65)"><circle r="25" fill="#0a1520" stroke="#67e8f9" stroke-opacity=".65"/><circle r="4" fill="#67e8f9"/><text y="-38" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.7" fill="#78eef8">OBSERVE</text><text y="45" text-anchor="middle" font-size="14" fill="#8c97aa">signals · users · sensors</text></g>
-  <g transform="translate(600 65)"><circle r="31" fill="#101425" stroke="#8ea0ff" stroke-opacity=".7"/><circle r="5" fill="#8ea0ff"/><text y="-45" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.7" fill="#a4b2ff">MODEL</text><text y="52" text-anchor="middle" font-size="14" fill="#8c97aa">learn · estimate · optimize</text></g>
-  <g transform="translate(965 65)"><circle r="25" fill="#171020" stroke="#c084fc" stroke-opacity=".7"/><circle r="4" fill="#c084fc"/><text y="-38" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1.7" fill="#d4adff">ACT</text><text y="45" text-anchor="middle" font-size="14" fill="#8c97aa">decide · automate · control</text></g>
-</g>
-</svg>
+<g transform="translate(166 61)"><circle r="26" fill="#0b1720" stroke="#67e8f9" stroke-opacity=".7"/><path d="M-8 0h16M0-8v16" stroke="#7bf0f8" stroke-width="1.8"/><text y="-39" text-anchor="middle" font-size="15" font-weight="700" fill="#7bf0f8">OBSERVE</text><text y="43" text-anchor="middle" font-size="13" fill="#8f9aab">signals</text></g>
+<g transform="translate(450 61)"><circle r="32" fill="#11162a" stroke="#8ea0ff" stroke-opacity=".75"/><circle r="4" fill="#a9b5ff"/><circle cx="-10" r="3" fill="#a9b5ff"/><circle cx="10" r="3" fill="#a9b5ff"/><path d="M-10 0H10" stroke="#a9b5ff"/><text y="-46" text-anchor="middle" font-size="15" font-weight="700" fill="#a9b5ff">MODEL</text><text y="50" text-anchor="middle" font-size="13" fill="#8f9aab">learn · optimize</text></g>
+<g transform="translate(734 61)"><circle r="26" fill="#191121" stroke="#c084fc" stroke-opacity=".75"/><path d="M-8 5l6-10 7 6 7-11" fill="none" stroke="#d7b2ff" stroke-width="1.8"/><text y="-39" text-anchor="middle" font-size="15" font-weight="700" fill="#d7b2ff">ACT</text><text y="43" text-anchor="middle" font-size="13" fill="#8f9aab">decide · control</text></g>
+</g></svg>
