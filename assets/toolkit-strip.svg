@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-labelledby="t d">
-<title id="t">Toolkit</title><desc id="d">Selected technologies and methods grouped by purpose.</desc>
-<rect width="1200" height="196" rx="22" fill="#090c13"/><rect x="1" y="1" width="1198" height="194" rx="21" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="t d">
+<title id="t">Toolkit</title><desc id="d">A compact toolkit map grouped by purpose.</desc>
+<rect width="900" height="220" rx="22" fill="#090c13"/><rect x="1" y="1" width="898" height="218" rx="21" fill="none" stroke="#fff" stroke-opacity=".07"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="42" y="40" font-size="11" letter-spacing="2.2" fill="#737f95">TOOLKIT / BY PURPOSE</text>
-<g transform="translate(42 72)"><text font-size="15" font-weight="700" fill="#71eaf4">DATA + ML</text><text y="28" font-size="13" fill="#9da8bb">Python · SQL · XGBoost</text><text y="50" font-size="13" fill="#9da8bb">Pandas · Scikit-learn</text></g>
-<g transform="translate(325 72)"><text font-size="15" font-weight="700" fill="#9eacff">AI SYSTEMS</text><text y="28" font-size="13" fill="#9da8bb">LLMs · Agents · MCP</text><text y="50" font-size="13" fill="#9da8bb">RAG · Tool Use · Memory</text></g>
-<g transform="translate(630 72)"><text font-size="15" font-weight="700" fill="#d0a8ff">OPTIMIZATION</text><text y="28" font-size="13" fill="#9da8bb">NSGA-II · Pareto methods</text><text y="50" font-size="13" fill="#9da8bb">Multi-objective modeling</text></g>
-<g transform="translate(925 72)"><text font-size="15" font-weight="700" fill="#f0c56a">CONTROL</text><text y="28" font-size="13" fill="#9da8bb">MATLAB · Simulink</text><text y="50" font-size="13" fill="#9da8bb">Observers · System ID</text></g>
-</g>
-</svg>
+<text x="30" y="34" font-size="12" letter-spacing="2.1" fill="#6f7b91">TOOLKIT / BY PURPOSE</text>
+<path d="M82 128H818" stroke="#fff" stroke-opacity=".08"/>
+<g transform="translate(80 79)"><circle r="22" fill="#0b1720" stroke="#67e8f9" stroke-opacity=".65"/><text y="5" text-anchor="middle" font-size="11" font-weight="700" fill="#7bf0f8">ML</text><text y="48" text-anchor="middle" font-size="16" font-weight="700" fill="#f4f7fb">Data + ML</text><text y="72" text-anchor="middle" font-size="12" fill="#8f9aab">Python · SQL · XGBoost</text></g>
+<g transform="translate(326 79)"><circle r="22" fill="#11162a" stroke="#8ea0ff" stroke-opacity=".7"/><text y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#a9b5ff">AI</text><text y="48" text-anchor="middle" font-size="16" font-weight="700" fill="#f4f7fb">AI Systems</text><text y="72" text-anchor="middle" font-size="12" fill="#8f9aab">Agents · MCP · RAG</text></g>
+<g transform="translate(574 79)"><circle r="22" fill="#17101f" stroke="#c084fc" stroke-opacity=".7"/><text y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#d7b2ff">OP</text><text y="48" text-anchor="middle" font-size="16" font-weight="700" fill="#f4f7fb">Optimization</text><text y="72" text-anchor="middle" font-size="12" fill="#8f9aab">NSGA-II · Pareto</text></g>
+<g transform="translate(820 79)"><circle r="22" fill="#181713" stroke="#f1c66a" stroke-opacity=".65"/><text y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#f1d28c">CT</text><text y="48" text-anchor="middle" font-size="16" font-weight="700" fill="#f4f7fb">Control</text><text y="72" text-anchor="middle" font-size="12" fill="#8f9aab">MATLAB · Observers</text></g>
+</g></svg>
