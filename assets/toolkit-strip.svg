@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-labelledby="t d">
+<title id="t">Toolkit</title><desc id="d">Selected technologies and methods grouped by purpose.</desc>
+<rect width="1200" height="196" rx="22" fill="#090c13"/><rect x="1" y="1" width="1198" height="194" rx="21" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="42" y="40" font-size="11" letter-spacing="2.2" fill="#737f95">TOOLKIT / BY PURPOSE</text>
+<g transform="translate(42 72)"><text font-size="15" font-weight="700" fill="#71eaf4">DATA + ML</text><text y="28" font-size="13" fill="#9da8bb">Python · SQL · XGBoost</text><text y="50" font-size="13" fill="#9da8bb">Pandas · Scikit-learn</text></g>
+<g transform="translate(325 72)"><text font-size="15" font-weight="700" fill="#9eacff">AI SYSTEMS</text><text y="28" font-size="13" fill="#9da8bb">LLMs · Agents · MCP</text><text y="50" font-size="13" fill="#9da8bb">RAG · Tool Use · Memory</text></g>
+<g transform="translate(630 72)"><text font-size="15" font-weight="700" fill="#d0a8ff">OPTIMIZATION</text><text y="28" font-size="13" fill="#9da8bb">NSGA-II · Pareto methods</text><text y="50" font-size="13" fill="#9da8bb">Multi-objective modeling</text></g>
+<g transform="translate(925 72)"><text font-size="15" font-weight="700" fill="#f0c56a">CONTROL</text><text y="28" font-size="13" fill="#9da8bb">MATLAB · Simulink</text><text y="50" font-size="13" fill="#9da8bb">Observers · System ID</text></g>
+</g>
+</svg>
