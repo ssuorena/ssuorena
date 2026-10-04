@@ -1,38 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="t d">
-<title id="t">Core domains</title><desc id="d">Decision systems, agentic AI, and control research.</desc>
-<defs>
-  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1720"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
-  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101426"/><stop offset="1" stop-color="#0b1018"/></linearGradient>
-  <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17101f"/><stop offset="1" stop-color="#0c0f17"/></linearGradient>
-</defs>
-<rect width="1200" height="270" rx="24" fill="#080b12"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="382" viewBox="0 0 900 382" role="img" aria-labelledby="t d">
+<title id="t">Core domains</title><desc id="d">Three visual cards for decision systems, agentic AI, and control research.</desc>
+<rect width="900" height="382" rx="22" fill="#080b12"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <g transform="translate(24 24)">
-    <rect width="368" height="222" rx="20" fill="url(#a)" stroke="#67e8f9" stroke-opacity=".22"/>
-    <circle cx="42" cy="42" r="18" fill="#0d2430" stroke="#67e8f9" stroke-opacity=".55"/>
-    <path d="M34 42h16M42 34v16" stroke="#8cf5fb" stroke-width="2"/>
-    <text x="28" y="92" font-size="12" letter-spacing="2.1" fill="#67e8f9">01 / DECISION SYSTEMS</text>
-    <text x="28" y="132" font-size="24" font-weight="700" fill="#f5f7fb">Turn signals into action</text>
-    <text x="28" y="168" font-size="15" fill="#9da8bb">Optimization · Personalization</text>
-    <text x="28" y="194" font-size="15" fill="#9da8bb">Recommenders · Forecasting</text>
-  </g>
-  <g transform="translate(416 24)">
-    <rect width="368" height="222" rx="20" fill="url(#b)" stroke="#8ea0ff" stroke-opacity=".22"/>
-    <circle cx="42" cy="42" r="18" fill="#171b34" stroke="#8ea0ff" stroke-opacity=".55"/>
-    <circle cx="36" cy="42" r="3" fill="#a8b6ff"/><circle cx="48" cy="42" r="3" fill="#a8b6ff"/><path d="M39 42h6" stroke="#a8b6ff"/>
-    <text x="28" y="92" font-size="12" letter-spacing="2.1" fill="#9eacff">02 / AGENTIC AI</text>
-    <text x="28" y="132" font-size="24" font-weight="700" fill="#f5f7fb">AI that can do work</text>
-    <text x="28" y="168" font-size="15" fill="#9da8bb">Agents · Tools · MCP · RAG</text>
-    <text x="28" y="194" font-size="15" fill="#9da8bb">Memory · Human checkpoints</text>
-  </g>
-  <g transform="translate(808 24)">
-    <rect width="368" height="222" rx="20" fill="url(#c)" stroke="#c084fc" stroke-opacity=".22"/>
-    <circle cx="42" cy="42" r="18" fill="#24132f" stroke="#c084fc" stroke-opacity=".55"/>
-    <path d="M31 46c7-12 15-12 22 0" fill="none" stroke="#d7b2ff" stroke-width="2"/>
-    <text x="28" y="92" font-size="12" letter-spacing="2.1" fill="#d0a8ff">03 / CONTROL + RESEARCH</text>
-    <text x="28" y="132" font-size="24" font-weight="700" fill="#f5f7fb">Model uncertainty</text>
-    <text x="28" y="168" font-size="15" fill="#9da8bb">Friction · Observers</text>
-    <text x="28" y="194" font-size="15" fill="#9da8bb">System ID · Precision motion</text>
-  </g>
+<text x="30" y="34" font-size="12" letter-spacing="2.1" fill="#6f7b91">CORE DOMAINS</text>
+<g transform="translate(28 54)">
+<rect width="844" height="92" rx="18" fill="#0a151e" stroke="#67e8f9" stroke-opacity=".22"/>
+<text x="22" y="31" font-size="12" letter-spacing="1.8" fill="#67e8f9">01 / DECISION SYSTEMS</text><text x="22" y="62" font-size="23" font-weight="700" fill="#f4f7fb">Signals → choices → measurable action</text>
+<g transform="translate(650 18)"><circle cx="18" cy="46" r="5" fill="#67e8f9"/><circle cx="58" cy="30" r="5" fill="#67e8f9"/><circle cx="98" cy="20" r="5" fill="#67e8f9"/><circle cx="138" cy="14" r="5" fill="#67e8f9"/><path d="M18 46C45 45 48 32 58 30S86 20 98 20s26-4 40-6" fill="none" stroke="#67e8f9" stroke-opacity=".7" stroke-width="2"/></g>
 </g>
-</svg>
+<g transform="translate(28 156)">
+<rect width="844" height="92" rx="18" fill="#111528" stroke="#8ea0ff" stroke-opacity=".22"/>
+<text x="22" y="31" font-size="12" letter-spacing="1.8" fill="#9eacff">02 / AGENTIC AI</text><text x="22" y="62" font-size="23" font-weight="700" fill="#f4f7fb">Agents that use tools, memory, and judgment</text>
+<g transform="translate(690 19)"><circle cx="48" cy="27" r="17" fill="#171d35" stroke="#8ea0ff"/><circle cx="9" cy="9" r="8" fill="#202744" stroke="#8ea0ff" stroke-opacity=".6"/><circle cx="88" cy="9" r="8" fill="#202744" stroke="#8ea0ff" stroke-opacity=".6"/><circle cx="9" cy="55" r="8" fill="#202744" stroke="#8ea0ff" stroke-opacity=".6"/><circle cx="88" cy="55" r="8" fill="#202744" stroke="#8ea0ff" stroke-opacity=".6"/><path d="M18 13L34 20M79 13L62 20M18 51L34 35M79 51L62 35" stroke="#8ea0ff" stroke-opacity=".65" stroke-width="1.5"/></g>
+</g>
+<g transform="translate(28 258)">
+<rect width="844" height="92" rx="18" fill="#17101f" stroke="#c084fc" stroke-opacity=".22"/>
+<text x="22" y="31" font-size="12" letter-spacing="1.8" fill="#d0a8ff">03 / CONTROL + RESEARCH</text><text x="22" y="62" font-size="23" font-weight="700" fill="#f4f7fb">Model uncertainty. Stabilize motion.</text>
+<g transform="translate(645 18)"><path d="M0 46C25 46 20 10 48 10s22 50 50 50 22-38 50-38 23 21 48 21" fill="none" stroke="#c084fc" stroke-width="2.3"/><path d="M0 46H196" stroke="#fff" stroke-opacity=".08"/></g>
+</g>
+</g></svg>
