@@ -26,13 +26,19 @@ I build systems across **data, AI, optimization, and control**.
   <img src="./assets/system-loop.svg" width="100%" alt="Observe Model Act system loop"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="./assets/domain-cards.svg" width="100%" alt="Decision Systems, Agentic AI, Control and Research"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="./assets/current-orbit.svg" width="100%" alt="Current Orbit"/>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="./assets/work-grid.svg" width="100%" alt="Selected work"/>
@@ -42,9 +48,13 @@ I build systems across **data, AI, optimization, and control**.
   <a href="https://ssuorena.github.io"><b>Explore the full portfolio →</b></a>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="./assets/toolkit-strip.svg" width="100%" alt="Toolkit"/>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="./assets/recognition-strip.svg" width="100%" alt="Selected recognition"/>
